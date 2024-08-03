@@ -12,7 +12,7 @@ def stuff(in_arg):
     -------
         The input itself.
     """
-    return in_arg
+    return in_arg + 10
 
 if __name__ == '__main__':
     stuff(19)
